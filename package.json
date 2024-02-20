@@ -33,7 +33,7 @@
     "typescript",
     "awesome-project"
   ],
-  "author": "",
+  "author": "Johan S. <",
   "license": "MIT",
   "devDependencies": {
     "@testing-library/react": "^14.2.1",
